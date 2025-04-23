@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Escritorio\Dynamics\Prueba C#\calculadora\bin\Debug\net9.0\calculadora.exe
+C:\Users\Usuario\OneDrive\Escritorio\Dynamics\Prueba C#\calculadora\bin\Debug\net9.0\calculadora.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\Dynamics\Prueba C#\calculadora\bin\Debug\net9.0\calculadora.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\Dynamics\Prueba C#\calculadora\bin\Debug\net9.0\calculadora.dll
+C:\Users\Usuario\OneDrive\Escritorio\Dynamics\Prueba C#\calculadora\bin\Debug\net9.0\calculadora.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Dynamics\Prueba C#\calculadora\obj\Debug\net9.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\Dynamics\Prueba C#\calculadora\obj\Debug\net9.0\calculadora.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Dynamics\Prueba C#\calculadora\obj\Debug\net9.0\calculadora.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\Dynamics\Prueba C#\calculadora\obj\Debug\net9.0\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Dynamics\Prueba C#\calculadora\obj\Debug\net9.0\calculadora.dll
+C:\Users\Usuario\OneDrive\Escritorio\Dynamics\Prueba C#\calculadora\obj\Debug\net9.0\refint\calculadora.dll
+C:\Users\Usuario\OneDrive\Escritorio\Dynamics\Prueba C#\calculadora\obj\Debug\net9.0\calculadora.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Dynamics\Prueba C#\calculadora\obj\Debug\net9.0\calculadora.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\Dynamics\Prueba C#\calculadora\obj\Debug\net9.0\ref\calculadora.dll
