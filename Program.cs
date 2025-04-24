@@ -6,7 +6,7 @@ class Calculadora
     {
         double num1, num2, resultado;
         char operacion;
-
+        //Hago este cambio en mi rama JuanDavid
         Console.WriteLine("=== CALCULADORA BÁSICA ===");
 
         Console.Write("Ingrese el primer número: ");
